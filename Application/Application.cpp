@@ -14,6 +14,7 @@ int CoolClass::Calc(int a, int b)
     if (a == b)
     {
         return 2 * a;
+        # Its a testing comment
     }
     else
     {
