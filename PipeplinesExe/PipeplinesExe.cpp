@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Hello Class . This is Group23!\n";
+    std::cout << "Hello Class!.This is Group23\n";
     CoolClass coolClass;
     std::cout << "Calc " << coolClass.Calc(1, 2);
 }
